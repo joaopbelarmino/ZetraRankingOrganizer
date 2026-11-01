@@ -1,0 +1,6 @@
+main: com.zetramc.rankingorganizer.ZetraRankingOrganizer
+name: ZetraRankingOrganizer
+version: 1.0.0
+api-version: 1.21
+author: Manus AI
+softdepend: [LuckPerms, PlaceholderAPI]

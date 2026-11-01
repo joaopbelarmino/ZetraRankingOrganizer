@@ -1,0 +1,59 @@
+# Configuração dos cargos do ZetraRankingOrganizer
+# Cada entrada representa uma posição no ranking que será sincronizada com o LuckPerms.
+#
+# Exemplo:
+# Magnata_1:
+#   placeholder: '%centralcart_top_donor_monthly_1_name%'
+#   tag: imperador
+#
+# Magnata_2:
+#   placeholder: '%centralcart_top_donor_monthly_2_name%'
+#   tag: milionario
+#
+# Magnata_3:
+#   placeholder: '%centralcart_top_donor_monthly_3_name%'
+#   tag: milionario
+#
+# Magnata_4:
+#   placeholder: '%centralcart_top_donor_monthly_4_name%'
+#   tag: magnata
+
+Magnata_1:
+  placeholder: '%centralcart_top_donor_monthly_1_name%'
+  tag: imperador
+
+Magnata_2:
+  placeholder: '%centralcart_top_donor_monthly_2_name%'
+  tag: milionario
+
+Magnata_3:
+  placeholder: '%centralcart_top_donor_monthly_3_name%'
+  tag: milionario
+
+Magnata_4:
+  placeholder: '%centralcart_top_donor_monthly_4_name%'
+  tag: magnata
+
+Magnata_5:
+  placeholder: '%centralcart_top_donor_monthly_5_name%'
+  tag: magnata
+
+Magnata_6:
+  placeholder: '%centralcart_top_donor_monthly_6_name%'
+  tag: magnata
+
+Magnata_7:
+  placeholder: '%centralcart_top_donor_monthly_7_name%'
+  tag: magnata
+
+Magnata_8:
+  placeholder: '%centralcart_top_donor_monthly_8_name%'
+  tag: rico
+
+Magnata_9:
+  placeholder: '%centralcart_top_donor_monthly_9_name%'
+  tag: rico
+
+Magnata_10:
+  placeholder: '%centralcart_top_donor_monthly_10_name%'
+  tag: rico

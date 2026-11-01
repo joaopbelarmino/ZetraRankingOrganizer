@@ -1,0 +1,5 @@
+# Configuração Geral do ZetraRankingOrganizer
+
+# Intervalo em segundos para verificar e atualizar as tags dos jogadores.
+# Padrão: 60 segundos
+update-delay-seconds: 60
